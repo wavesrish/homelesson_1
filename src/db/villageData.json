@@ -1,0 +1,76 @@
+{
+  "village": [
+    {
+      "img": "https://picsum.photos/500/300/?image=1",
+      "address": "address1",
+      "phone": 111222333,
+      "weather": {
+        "title": "title1",
+        "icon": "cloud",
+        "water": 1,
+        "temperature": 1
+      },
+      "social_info": {
+        "title": "title1",
+        "img": "https://picsum.photos/100/100/?image=23",
+        "followers": 1,
+        "following": 1
+      },
+      "type": "type1"
+    },
+    {
+      "img": "https://picsum.photos/500/300/?image=1",
+      "address": "address1",
+      "phone": 111222444,
+      "weather": {
+        "title": "title2",
+        "icon": "cloud",
+        "water": 2,
+        "temperature": 2
+      },
+      "social_info": {
+        "title": "title2",
+        "img": "https://picsum.photos/100/100/?image=23",
+        "followers": 2,
+        "following": 2
+      },
+      "type": "type2"
+    },
+    {
+      "img": "https://picsum.photos/500/300/?image=1",
+      "address": "address1",
+      "phone": 111222444,
+      "weather": {
+        "title": "title3",
+        "icon": "cloud",
+        "water": 3,
+        "temperature": 3
+      },
+      "social_info": {
+        "title": "title1",
+        "img": "https://picsum.photos/100/100/?image=23",
+        "followers": 3,
+        "following": 3
+      },
+      "type": "type3"
+    },
+    {
+      "img": "https://picsum.photos/500/300/?image=1",
+      "address": "address1",
+      "phone": 111222555,
+      "weather": {
+        "title": "title1",
+        "icon": "cloud",
+        "water": 4,
+        "temperature": 4
+      },
+      "social_info": {
+        "title": "title1",
+        "img": "https://picsum.photos/100/100/?image=23",
+        "followers": 4,
+        "following": 4
+      },
+      "type": "type4"
+    }
+  ]
+}
